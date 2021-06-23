@@ -4,7 +4,7 @@
 
 - 🔭 I’m studying Game Development at Grafisch Lyceum Utrecht.
 - 🎮 Casually working on [**Dungeon Breaker**](https://twitter.com/StefanPijnacker/status/1380787207733178370), a mobile-game set to release on Android and iOS.
-- 💫 Working on smaller '**_Mini_**' projects in my free time ( you can check them out in my repositories )
+- 💫 Working on smaller '**_Mini_**' projects in my free time ( you can find these in my repositories )
 
 ---
 

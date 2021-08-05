@@ -2,9 +2,9 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Welcome to my GitHub profile. My name is Stefan Pijnacker and currently my main occupation is **Game Development/Programming**.
 
-- 🔭 I’m studying Game Development at Grafisch Lyceum Utrecht, soon at Breda University of Applied Sciences.
+- 🔭 I’m studying Game Programming at Breda University of Applied Sciences.
 - 🎮 Casually working on [**Dungeon Breaker**](https://twitter.com/StefanPijnacker/status/1380787207733178370), a mobile-game set to release on Android and iOS.
-- 💫 Working on smaller '**_Mini_**' projects in my free time ( you can find these in my repositories )
+- 💫 Working on smaller '**_Mini_**' projects in my free time, these are mostly fun/small simulations
 
 ---
 

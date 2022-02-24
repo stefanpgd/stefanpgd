@@ -14,5 +14,3 @@
 
 
 <p><a href="https://twitter.com/StefanPijnacker"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/stefan-pijnacker-6b506a194/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  
-[![Visits](https://komarev.com/ghpvc/?username=stefanpgd&logo=GitHub&label=Profile%20Views&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)

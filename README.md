@@ -2,6 +2,7 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Welcome to my GitHub profile. My name is Stefan Pijnacker and currently my main occupation is **Game Development/Programming**.
 
+- 👨‍💻 C++ & C# Developer.
 - 🔭 I’m studying Game Programming at Breda University of Applied Sciences.
 - 💫 Working on smaller '**_Mini_**' projects in my free time, these are mostly small simulations and/or recreations of interesting systems.
 

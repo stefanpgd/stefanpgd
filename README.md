@@ -1,5 +1,5 @@
 ---
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There 👋
 ### Welcome to my GitHub profile. My name is Stefan Pijnacker and my main occupation is **Game Development/Programming**.
 
 - 👨‍💻 C++ & C# Developer.

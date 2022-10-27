@@ -9,8 +9,7 @@
 
 ---
 
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stefanpgd&theme=highcontrast&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=stefanpgd&theme=highcontrast&border_radius=7)](https://git.io/streak-stats)
     
 ---
 

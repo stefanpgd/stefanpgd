@@ -5,7 +5,7 @@
 - 👨‍💻 C++ & C# Developer.
 - 🎮 I’m studying Game Technologies at **Breda University of Applied Sciences**.
 - 🔭 Currently specializing in **Graphics Programming**. 
-- 💫 Working on smaller '**_Mini_**' projects in my free time, these are mostly small simulations and/or recreations of interesting systems.
+- 💫 Working on smaller projects in my free time, most of them are for research, they can be found among my public repositories.
 
 ---
 

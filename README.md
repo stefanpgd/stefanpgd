@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=stefanpgd&theme=highcontrast&hide_border=false&border_radius=20"/></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=stefanpgd&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 ---

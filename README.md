@@ -1,10 +1,10 @@
 ---
 ### Hey There 👋
-### Welcome to my GitHub profile. My name is Stefan Pijnacker and my main occupation is **Game Development/Programming**.
+### Welcome to my GitHub profile. My name is Stefan Pijnacker and my main occupation is **Game Development**.
 
 - 👨‍💻 C++ & C# Developer, Graphics APIs: Directx 12 and OpenGL
-- 🔍 **Computer Graphics Researcher** at Traverse Research
-- 🎮 I’m studying Game Technologies at **Breda University of Applied Sciences**.
+- 🔍 Junior Graphics Programmer Intern at Massive Entertainment - Ubisoft
+- 🎮 I’m studying Game Technologies at Breda University of Applied Sciences.
 - 💫 Working on smaller projects in my free time, most of them are for research, they can be found among my public repositories.
 
 ---

@@ -4,7 +4,7 @@
 
 - 👨‍💻 C++ & C# Developer, Graphics APIs: Directx 12 and OpenGL
 - 🔍 Junior Graphics Programmer at Massive Entertainment - Ubisoft
-- 🎮 I’m studying Game Technologies at Breda University of Applied Sciences
+- 🎮 I’ve a Bachelor's Degree in Game Technologies from Breda University of Applied Sciences
 - 💫 Working on smaller projects in my free time, most of them are for research, they can be found among my public repositories
 
 ---
